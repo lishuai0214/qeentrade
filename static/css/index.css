@@ -192,8 +192,7 @@ body{background: #fff;}
 .datails-content .itemInfo .choose-attrs{color: #888888; line-height: 32px; padding-left: 34px;}
 .datails-content .itemInfo .choose-attrs .title{margin-right: 34px; float: left;  margin-bottom: 0;}
 .datails-content .itemInfo .choose-attrs .color{margin-bottom: 18px;}
-.datails-content .itemInfo .choose-attrs .color .color-cont{display: inline-block; float: left;}
-.datails-content .itemInfo .choose-attrs .color .color-cont .btn{display: inline-block; padding:0 26px; margin-right: 26px; border:1px solid #e0e0e0; cursor: pointer; color: #000;}
+.datails-content .itemInfo .choose-attrs .color .color-cont .btn{padding:0 16px; margin-right: 3px; border:1px solid #e0e0e0; color: rgba(72, 72, 72, 0.78);}
 .datails-content .itemInfo .choose-attrs .color .color-cont .btn.active{border-color:#ff5500;}
 .datails-content .itemInfo .choose-attrs .number{line-height: 30px;}
 .datails-content .itemInfo .choose-attrs .number .title{float: left;}
